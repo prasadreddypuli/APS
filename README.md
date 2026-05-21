@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/prasadreddypuli/APS/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/prasadreddypuli/APS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Shajahan-18/Applied-programming-skilll/tree/master/0739-daily-temperatures) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/prasadreddypuli/APS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
