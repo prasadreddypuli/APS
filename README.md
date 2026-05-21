@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/prasadreddypuli/APS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/Shajahan-18/Applied-programming-skilll/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prasadreddypuli/APS/tree/master/0503-next-greater-element-ii) |
 | [0695-max-area-of-island](https://github.com/prasadreddypuli/APS/tree/master/0695-max-area-of-island) |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/prasadreddypuli/APS/tree/master/0695-max-area-of-island) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/prasadreddypuli/APS/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
