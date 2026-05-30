@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/prasadreddypuli/APS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Shajahan-18/Applied-programming-skilll/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prasadreddypuli/APS/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/prasadreddypuli/APS/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/prasadreddypuli/APS/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/prasadreddypuli/APS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Shajahan-18/Applied-programming-skilll/tree/master/0739-daily-temperatures) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/prasadreddypuli/APS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/prasadreddypuli/APS/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Shajahan-18/Applied-programming-skilll/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/prasadreddypuli/APS/tree/master/0560-subarray-sum-equals-k) |
 ## Stack
 |  |
 | ------- |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/prasadreddypuli/APS/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prasadreddypuli/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/prasadreddypuli/APS/tree/master/0152-maximum-product-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/prasadreddypuli/APS/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
