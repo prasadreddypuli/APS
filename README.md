@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/prasadreddypuli/APS/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/prasadreddypuli/APS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Shajahan-18/Applied-programming-skilll/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prasadreddypuli/APS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/prasadreddypuli/APS/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/prasadreddypuli/APS/tree/master/0151-reverse-words-in-a-string) |
 | [0796-rotate-string](https://github.com/prasadreddypuli/APS/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prasadreddypuli/APS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/prasadreddypuli/APS/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/prasadreddypuli/APS/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
@@ -158,5 +160,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prasadreddypuli/APS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/prasadreddypuli/APS/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
