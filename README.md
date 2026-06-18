@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prasadreddypuli/APS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/prasadreddypuli/APS/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/prasadreddypuli/APS/tree/master/0151-reverse-words-in-a-string) |
 | [0686-repeated-string-match](https://github.com/prasadreddypuli/APS/tree/master/0686-repeated-string-match) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prasadreddypuli/APS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/prasadreddypuli/APS/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/prasadreddypuli/APS/tree/master/0796-rotate-string) |
 ## Tree
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prasadreddypuli/APS/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/prasadreddypuli/APS/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prasadreddypuli/APS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prasadreddypuli/APS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/prasadreddypuli/APS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prasadreddypuli/APS/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/prasadreddypuli/APS/tree/master/0151-reverse-words-in-a-string) |
