@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/prasadreddypuli/APS/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/prasadreddypuli/APS/tree/master/0151-reverse-words-in-a-string) |
+| [0686-repeated-string-match](https://github.com/prasadreddypuli/APS/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/prasadreddypuli/APS/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prasadreddypuli/APS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/prasadreddypuli/APS/tree/master/1021-remove-outermost-parentheses) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/prasadreddypuli/APS/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/prasadreddypuli/APS/tree/master/0796-rotate-string) |
 ## Tree
 |  |
